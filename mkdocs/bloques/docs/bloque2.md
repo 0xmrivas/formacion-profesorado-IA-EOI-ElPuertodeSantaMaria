@@ -6,13 +6,13 @@ hide:
 # Sesion 2
 
 
-## EOI Builder GPT: Generador de componentes Bootstrap para Moodle y eXeLearning
+## EOI Componets Builder GPT: Generador de componentes Bootstrap para Moodle y eXeLearning
 
-El **EOI Builder GPT** es una herramienta diseñada para crear componentes interactivos y dinámicos basados en Bootstrap, como acordeones (Accordion), carruseles (Carousel), pestañas (Tabs), tooltips (Tooltip), tarjetas (Card), modales(Modals) y combinaciones de estos (Collapse & Modal, Cards & Modals, Tooltip & Card). Su objetivo es facilitar la creación e integración de estos elementos en plataformas educativas como **Moodle** y **eXeLearning**.
+El **EOI Componets Builder GPT** es una herramienta diseñada para crear componentes interactivos y dinámicos basados en Bootstrap, como acordeones (Accordion), carruseles (Carousel), pestañas (Tabs), tooltips (Tooltip), tarjetas (Card), modales(Modals) y combinaciones de estos (Collapse & Modal, Cards & Modals, Tooltip & Card). Su objetivo es facilitar la creación e integración de estos elementos en plataformas educativas como **Moodle** y **eXeLearning**.
 
 ### ¿Qué necesitas para usarlo?
 
-* Una cuenta gratuita en **ChatGPT** para acceder al **EOI Builder GPT**.
+* Una cuenta gratuita en **ChatGPT** para acceder al **EOI Componets Builder GPT**.
 
 * **Acceso a Moodle o eXeLearning** para integrar los componentes generados.
 
@@ -34,12 +34,12 @@ Si no tienes una cuenta gratuita en ChatGPT, sigue estos pasos para crear una:
 
 ¡Y listo! Ahora puedes generar componentes Bootstrap para Moodle y eXeLearning de manera sencilla y eficiente.
 
-### Acceso a EOI Builder GPT
-Puedes acceder al generador a través del siguiente enlace: [**EOI Builder GPT**](https://chatgpt.com/g/g-674a0692667481919e18b49c9dffb7d7-eoi-builder)
+### Acceso a EOI Componets Builder GPT
+Puedes acceder al generador a través del siguiente enlace: [**EOI Componets Builder GPT**](https://chatgpt.com/g/g-674a0692667481919e18b49c9dffb7d7-eoi-builder)
 
 ### Cómo funciona
 
-Para utilizar el EOI Builder GPT, proporciona una descripción detallada y clara del componente que deseas generar, incluyendo la información textual, idioma y el contexto educativo. Aquí tienes ejemplos más elaborados para guiarte:
+Para utilizar el EOI Componets Builder GPT, proporciona una descripción detallada y clara del componente que deseas generar, incluyendo la información textual, idioma y el contexto educativo. Aquí tienes ejemplos más elaborados para guiarte:
 
 **Ejemplo 1:**  
 Quiero un accordion en inglés para Moodle con una explicación detallada sobre los tiempos verbales del verbo *to be*. Cada sección debe incluir: una descripción detallada del tiempo verbal, ejemplos de uso y un ejercicio básico que permita practicarlo.
@@ -75,7 +75,7 @@ Algunas consideraciones a tener en cuenta:
 
 * Las imágenes que utiliza provienen de un generador aleatorio y debe ser reemplazada por una específica si es necesario.
 
-#### Integración en **Moodle**
+### Integración en **Moodle**
 
 **1. Activa el modo edición**:
 
@@ -98,7 +98,7 @@ Algunas consideraciones a tener en cuenta:
 **3. "Guardar los cambios y regresar al curso" para visualizar el componente integrado.**
 
 
-#### Integración en **eXeLearning**
+### Integración en **eXeLearning**
 
 Para integrar un componente en eXeLearning, antes debemos modificar el archivo `config.xml`del tema que estemos usando. Sigue estos pasos:
 
@@ -142,7 +142,7 @@ Una vez modificado el archivo `config.xml` ya tenemos el pryecto listo para aña
   
   - Ve a "Añadir un iDevice de Texto".
   
-  - Cambia al editor HTM<L.
+  - Cambia al editor HTML.
 
 <p align="center">
   <img src="../assets/exeLearning-1.png" alt="exeLearning">
@@ -157,13 +157,13 @@ Una vez modificado el archivo `config.xml` ya tenemos el pryecto listo para aña
 **2. Guardamos los cambios**
 
   <p align="center">
-    <img src="../assets/exeLearning-4.png" alt="exeLearning">
+    <img src="../assets/exeLearning-3.png" alt="exeLearning">
   </p>
 
 **3. Previsualizamos el proyecto**
 
   <p align="center">
-    <img src="../assets/exeLearning-5.png" alt="exeLearning">
+    <img src="../assets/exeLearning-4.png" alt="exeLearning">
   </p>
 
 > Nota. Una vez que hayas modificado el archivo config.xml del tema para añadir soporte a estos componentes, no será necesario volver a modificarlo cada vez que añadas un nuevo componente del mismo tipo. El archivo solo necesita configurarse una vez.
