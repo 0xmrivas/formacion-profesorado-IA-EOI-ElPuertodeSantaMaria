@@ -1,7 +1,7 @@
-# IA en el aula
+# IA y Docencia: Impulsando la Productividad en Escuelas de Idiomas
 
 <p align="center">
-  <img src="assets/logoeoi_svg_azul.webp" alt="Cover IA en el aula">
+  <img src="assets/logoeoi_svg_azul.webp" alt="Cover EOI El Puerto de Santa María">
 </p>
 
 <p align="center">
