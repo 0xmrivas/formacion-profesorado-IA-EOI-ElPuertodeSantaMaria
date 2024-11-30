@@ -35,7 +35,7 @@ Si no tienes una cuenta gratuita en ChatGPT, sigue estos pasos para crear una:
 ¡Y listo! Ahora puedes generar componentes Bootstrap para Moodle y eXeLearning de manera sencilla y eficiente.
 
 ### Acceso a EOI Componets Builder GPT
-Puedes acceder al generador a través del siguiente enlace: [**EOI Componets Builder GPT**](https://chatgpt.com/g/g-674a0692667481919e18b49c9dffb7d7-eoi-builder)
+Puedes acceder al generador a través del siguiente enlace: [**EOI Componets Builder GPT**](https://chatgpt.com/g/g-674a0692667481919e18b49c9dffb7d7-eoi-components-builder)
 
 ### Cómo funciona
 
