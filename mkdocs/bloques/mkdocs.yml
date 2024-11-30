@@ -1,5 +1,5 @@
 INHERIT: ../base.yml
-site_name: La ciberseguridad en el entorno educativo
+site_name: Impulsando la Productividad en Escuelas de Idiomas
 site_dir: ../../docs/bloques
 
 plugins:
