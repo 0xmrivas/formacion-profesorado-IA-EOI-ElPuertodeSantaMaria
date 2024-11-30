@@ -45,7 +45,7 @@ Para utilizar el EOI Builder GPT, proporciona una descripción detallada y clara
 Quiero un accordion en inglés para Moodle con una explicación detallada sobre los tiempos verbales del verbo *to be*. Cada sección debe incluir: una descripción detallada del tiempo verbal, ejemplos de uso y un ejercicio básico que permita practicarlo.
 
 <p align="center">
-  <img src="assets/ejemplo-1.png" alt="Accordion">
+  <img src="../assets/ejemplo-1.png" alt="Accordion">
 </p>
 
 **Ejemplo 2:**  
@@ -53,7 +53,7 @@ Necesito un componente combinado de Card & Tooltip para Moodle. El diseño debe 
 
 
 <p align="center">
-  <img src="assets/ejemplo-2.png" alt="Card&Tooltip">
+  <img src="../assets/ejemplo-2.png" alt="Card&Tooltip">
 </p>
 
 **Ejemplo 3:**  
@@ -70,7 +70,7 @@ Incorpora tooltips para las siguientes palabras:
 "
 
 <p align="center">
-  <img src="assets/ejemplo-3.png" alt="Card&Tooltip">
+  <img src="../assets/ejemplo-3.png" alt="Card&Tooltip">
 </p>
 
 >> El GPT generará el código adecuado según la descripción, que puedes copiar y pegar directamente en tu plataforma (Moodle o eXeLearning). 
@@ -94,13 +94,13 @@ Algunas consideraciones a tener en cuenta:
   - Cambia al modo de edición de código HTML.
 
 <p align="center">
-  <img src="assets/moodle-1.png" alt="Moodle">
+  <img src="../assets/moodle-1.png" alt="Moodle">
 </p>
 
 **2. Pega el código del componente generado y guarda los cambios**.
 
 <p align="center">
-  <img src="assets/moodle-2.png" alt="Moodle">
+  <img src="../assets/moodle-2.png" alt="Moodle">
 </p>
 
 **3. "Guardar los cambios y regresar al curso" para visualizar el componente integrado.**
@@ -123,7 +123,7 @@ Para integrar un componente en eXeLearning, antes debemos modificar el archivo `
    **Ejemplo de un archivo `config.xml` modificado:**
 
 <p align="center">
-  <img src="assets/configXML.png" alt="configXML">
+  <img src="../assets/configXML.png" alt="configXML">
 </p>
 
 
@@ -139,7 +139,7 @@ Para integrar un componente en eXeLearning, antes debemos modificar el archivo `
     ]]></extra-body>
 ~~~
 
-En [este enlace](https://raw.githubusercontent.com/0xmrivas/formacion-profesorado-IA-EOI-ElPuertodeSantaMaria/refs/heads/main/assets/config.xml) te puedes descargar un archivo config modificado para le tema Educaand_Adultos de la Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía.
+En [este enlace](https://raw.githubusercontent.com/0xmrivas/formacion-profesorado-IA-EOI-ElPuertodeSantaMaria/refs/heads/main/../assets/config.xml) te puedes descargar un archivo config modificado para le tema Educaand_Adultos de la Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía.
 
 > **Nota. Realiza una copia de seguridad del archivo antes de modificarlo**.
 
@@ -149,28 +149,28 @@ Una vez modificado el archivo `config.xml` ya tenemos el pryecto listo para aña
   
   - Ve a "Añadir un iDevice de Texto".
   
-  - Cambia al editor HTML.
+  - Cambia al editor HTM<L.
 
 <p align="center">
-  <img src="assets/exeLearning-1.png" alt="exeLearning">
+  <img src="../assets/exeLearning-1.png" alt="exeLearning">
 </p>
   
   - Pega el código del componente y actualiza.
 
   <p align="center">
-    <img src="assets/exeLearning-2.png" alt="exeLearning">
+    <img src="../assets/exeLearning-2.png" alt="exeLearning">
   </p>
   
 **2. Guardamos los cambios**
 
   <p align="center">
-    <img src="assets/exeLearning-4.png" alt="exeLearning">
+    <img src="../assets/exeLearning-4.png" alt="exeLearning">
   </p>
 
 **3. Previsualizamos el proyecto**
 
   <p align="center">
-    <img src="assets/exeLearning-5.png" alt="exeLearning">
+    <img src="../assets/exeLearning-5.png" alt="exeLearning">
   </p>
 
 > Nota. Una vez que hayas modificado el archivo config.xml del tema para añadir soporte a estos componentes, no será necesario volver a modificarlo cada vez que añadas un nuevo componente del mismo tipo. El archivo solo necesita configurarse una vez.
