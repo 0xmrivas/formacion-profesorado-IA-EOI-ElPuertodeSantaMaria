@@ -1,4 +1,6 @@
-<h2 class="r-fit-text" style="text-align: center"> IA en el aula </h2>
+
+## IA y Docencia
+#### Impulsando la Productividad en Escuelas de Idiomas
 
 <img class="r-stretch" style="text-align: center" src="assets/coverIA&Ciber.webp">
  
