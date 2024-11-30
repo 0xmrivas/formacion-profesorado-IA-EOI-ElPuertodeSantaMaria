@@ -39,12 +39,6 @@ El objetivo principal es explorar la integración de la IA en el ámbito educati
 * [Presentación](https://0xmrivas.github.io/formacion-profesorado-IA-EOI-ElPuertodeSantaMaria/slides/sesion2)
 * [Guía de la sesión](https://0xmrivas.github.io/formacion-profesorado-IA-EOI-ElPuertodeSantaMaria/docs/bloques/bloque2)
 
-### Sesion 3. XXXXXX
-
-* [Presentación](https://0xmrivas.github.io/formacion-profesorado-IA-EOI-ElPuertodeSantaMaria/slides/sesion3)
-* [Guía de la sesión](https://0xmrivas.github.io/formacion-profesorado-IA-EOI-ElPuertodeSantaMaria/docs/bloques/bloque3)
-
-
 
 ## Autoria
 
