@@ -8,6 +8,18 @@
 
 - [¿Qué es un LLM? - Carlos Santana](https://www.youtube.com/watch?v=Sz4qacFBHLk)
 
+## LLM con Versiones Gratuitas Accesibles
+
+- [ChatGPT](https://chat.openai.com/) - Versión gratuita de GPT-3.5
+- [DeepSeek](https://deep-seek.chat/en/) - Acceso gratuito a los modelos DeepSeek-R1 y V3.
+- [HuggingChat](https://huggingface.co/chat/) - Interfaz gratuita para varios modelos de código abierto
+- [Gemini](https://gemini.google.com/) - Versión gratuita de Gemini
+- [Microsoft Copilot](https://copilot.microsoft.com/t) - Chatbot gratuito de Microsoft basado en GPT-4
+- [Claude.ai](https://www.anthropic.com/claude) - Acceso gratuito a Claude 2
+- [Mistral](https://mistral.ai/) - Modelo open-source disponible sin restricciones.
+- [Kimi](https://kimi.ai/) - Uso gratuito e ilimitado a través de su API.
+- [Poe](https://poe.com/) - Plataforma gratuita que ofrece acceso a varios LLM
+
 ## Aplicaciones de generación multimedia
 
 ### Imágenes
@@ -32,6 +44,17 @@
 
 - [Pika](https://pika.art)
 
+
+### Utilidades especializados para enseñanza de idiomas
+
+### Comprensión lectora
+- [Twee](https://app.twee.com/)
+- [questionwell](https://app.questionwell.org/)
+
+### Expresión escrita
+- [grammarly](https://app.grammarly.com/) - Solo en inglés
+- [quillbot](https://quillbot.com/)
+
 ### Utilidades basadas en LLM
 
 - [MarkItDown](https://huggingface.co/spaces/ShubhamMhaske/MarkItDown_Microsoft). Herramienta para convertir diferentes tipos de archivo en Markdown.
@@ -40,23 +63,14 @@
 
 - [Mermaid Chart: diagrams and charts (GPT)](https://chatgpt.com/g/g-1IRFKwq4G-mermaid-chart-diagrams-and-charts). Generador de diagramas basado en lenguaje Mermaid, integrado en ChatGPT.
 
-- [HuggingChat](https://huggingface.co/chat/). Aplicación similar a ChatGPT, pero con modelos de código abierto.
-
 - [AnyChat](https://huggingface.co/spaces/akhaliq/anychat). Aplicación de chat con varios modelos de diferentes proveedores.
 
-
-## Ejemplos de la creación de situaciones de aprendizaje (SdA)
-
-- [Plantilla Anaya](../recursos/plantilla-situacion-aprendizaje).
-- [Ejemplo - SdA Anaya](../recursos/situacion-aprendizaje-ejemplo).
-- [Ejemplo conversación generando SdA](../recursos/SdA-Conocimiento-del-medio.html).
-- [SdA - Resultado conversación](../recursos/Reporteros-digitales_boletín-escolar.pdf).
 
 ## Aplicaciones RAG (generación aumentada por recuperación)
 
 - [Perplexity](https://www.perplexity.ai)
 - [Google NotebookLM](https://notebooklm.google.com)
-- [Gemino Advanced (1 mes de prueba)](https://gemini.google.com/)
+- [Gemini Advanced (1 mes de prueba)](https://gemini.google.com/)
 
 ## Reflexiones sobre IA en educación
 

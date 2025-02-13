@@ -1,9 +1,7 @@
 
-## IA y Docencia
+## Inteligencia artificial
 
-#### Impulsando la productividad en Escuelas de Idiomas
-
-<img class="nostretch" style="text-align: center" src="../imagenes/logoeoi_svg_azul.webp">
+<img class="nostretch" style="text-align: center" src="../imagenes/logos/logo.webp">
 
 ---
 ## Sesiones propuestas
@@ -345,6 +343,24 @@ Muy pocos sobrevivirán <!-- .element: class="fragment" -->
 [BRISK Teaching](https://www.briskteaching.com/es)
 
 [MagicSchool](https://www.magicschool.ai)
+
+---
+
+## Wrappers especializados para aprendizaje de idiomas
+
+
+## Comprensión lectora
+
+[Twee](https://app.twee.com/)
+
+[questionwell](https://app.questionwell.org/)
+
+
+## Expresión escrita
+
+[grammarly](https://app.grammarly.com/) - Solo en inglés
+
+[quillbot](https://quillbot.com/)
 ---
 ## Desbloqueando tu creatividad a través de la tecnología
 
@@ -402,7 +418,7 @@ Sin cuenta: Únicamente chat con GPT-4o-mini <!-- .element: class="fragment" -->
 Cuenta gratuita: Chat GPT-4o (limitado), historial, memoria, personalización, modo de voz básico, herramientas: búsqueda en internet y canva (limitado), uso de GPTs (limitado), generación de imágenes (limitado a 3), modo de voz avanzado (limitado) <!-- .element: class="fragment" -->
 
 
-Cuenta Plus: Elección de modelo (solo o1 limitado), creación de GPTs y proyectos
+Cuenta Plus: Elección de modelo, creación de GPTs y proyectos
 
 Cuenta Pro: modo o1 pro <!-- .element: class="fragment" -->
 
