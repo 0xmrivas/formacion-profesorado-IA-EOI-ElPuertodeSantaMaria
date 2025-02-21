@@ -17,6 +17,7 @@ Duración de la formación: 2 sesiones de 2,5 horas en modalidad presencial
 ## Diapositivas
 
 - [Sesión 1](diapositivas/sesion1.html)
+- [Sesión 2](diapositivas/sesion2.html)
 
 ## Para saber más
 

@@ -518,7 +518,7 @@ Recuerda añadir ejemplos propios que definan tu estilo <!-- .element: class="fr
 
  Manuel J. Rivas Sández 
  <small>
-- **Email:** [xmrivas@proton.me](mailto:xmrivas@proton.me)
+- **Email:** [0xmrivas@proton.me](mailto:0xmrivas@proton.me)
 - **Telegram:** [@xmrivas](https://t.me/xmrivas)
 - **Twitter:** [@0xmrivas](https://twitter.com/0xmrivas)
 
