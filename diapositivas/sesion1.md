@@ -8,7 +8,9 @@
 
 Sesión 1: Una Inteligencia Artificial para la creatividad <!-- .element: class="fragment" -->
 
-Sesión 2: Una Inteligencia Artificial para la  productividad <!-- .element: class="fragment" -->
+Sesiṕn 2: Una Inteligencia Artificial para el aprendiizaje <!-- .element: class="fragment" -->
+
+Sesión 3: Una Inteligencia Artificial para la  enseñanza <!-- .element: class="fragment" -->
 ---
 ## Una Inteligencia Artificial para la creatividad
 

@@ -97,7 +97,15 @@
 
 - [EOI Components Builder](https://chatgpt.com/g/g-674a0692667481919e18b49c9dffb7d7-eoi-components-builder)
 
-- [GIF Builder](https://chatgpt.com/g/g-67b63bda8e448191b138610574b0f81d-eoi-experto-en-gift)
+- [EOI Experto en GIFT](https://chatgpt.com/g/g-67b63bda8e448191b138610574b0f81d-eoi-experto-en-gift)
+
+- [EOI Experto en preguntas Cloze & GIFT](https://chatgpt.com/g/g-67b8b2b04ebc8191816a2007c3533902-eoi-experto-en-preguntas-cloze-gift)
+
+- [eXeLearning Games Builder](https://chatgpt.com/g/g-67e84a2536dc8191b8ea454223878d55-exelearning-games-builder)
+
+### eXeLEarning
+- [Probadores eXe (Grupo telegram)](https://web.telegram.org/a/#-1001213897309)
+- [Idevices eXe - Manuel Narváez Martínez](https://quext.educarex.es/nuevos-idevices)
 
 ### Ejemplos de asistentes educativos
 

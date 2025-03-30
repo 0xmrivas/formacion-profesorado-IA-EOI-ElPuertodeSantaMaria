@@ -10,14 +10,15 @@
     </a>
 </p>
 
-Repositorio para alojar los materiales de la formación en Inteligencia Artificial de la Escuela Oficial de Idiomas de El Puerto de Santa María durante el curso 2024-2025.
+Repositorio para alojar los materiales de la formación en Inteligencia Artificial de la Escuela Oficial de Idiomas de El Puerto de Santa María durante el curso 2024-2025 (7 horas).
 
-Duración de la formación: 2 sesiones de 2,5 horas en modalidad presencial
+Duración de la formación: 2 sesiones de 2,5 horas en modalidad presencial y una sesión de 2 horas en modalidad online.
 
 ## Diapositivas
 
 - [Sesión 1](diapositivas/sesion1.html)
 - [Sesión 2](diapositivas/sesion2.html)
+- [Sesión 3](diapositivas/sesion3.html)
 
 ## Para saber más
 
